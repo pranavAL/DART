@@ -11,3 +11,6 @@ In this work, we introduce discrete abstract representations for transformer-bas
 <p align="center">
   <img width="100%" src="images/dtr.png">
 </p>
+
+---
+### Dependencies
