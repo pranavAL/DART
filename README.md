@@ -12,8 +12,9 @@ In this work, we introduce discrete abstract representations for transformer-bas
   <img width="100%" src="images/dtr.png">
 </p>
 
+
+## Dependencies
 ---
-### Dependencies
 Create a virtual environment and install all the required files
 ```
 python3.8 -m venv myenv
