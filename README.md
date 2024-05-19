@@ -1,5 +1,4 @@
 # DART (Full code to be released soon)
----
 Official implementation of ICML 2024 paper "Learning to Play Atari in a World of Tokens" by  
 
 [Pranav Agarwal](https://pranaval.github.io/), [Sheldon Andrews](https://profs.etsmtl.ca/sandrews/) and [Samira Ebrahimi Kahou](https://saebrahimi.github.io/). 
@@ -14,7 +13,6 @@ In this work, we introduce discrete abstract representations for transformer-bas
 
 
 ## Dependencies
----
 Create a virtual environment and install all the required files
 ```
 python3.8 -m venv myenv
@@ -22,7 +20,6 @@ source myenv/bin/activate
 pip install -r requirements.txt
 ```
 ## Paper Associated
----
 If you use it, please cite
 ```
 @article{,
