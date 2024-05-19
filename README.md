@@ -9,5 +9,5 @@ In this work, we introduce discrete abstract representations for transformer-bas
 [Paper]()  [Webpage](https://pranaval.github.io/DART/)
 
 <p align="center">
-  <img width="75%" src="images/dtr.png">
+  <img width="100%" src="images/dtr.png">
 </p>
