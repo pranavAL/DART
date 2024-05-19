@@ -37,5 +37,9 @@ If you use it, please cite
     }
 ```
 
+## Credits
+* [https://github.com/eloialonso/iris](https://github.com/eloialonso/iris)
+* [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+  
 
 
