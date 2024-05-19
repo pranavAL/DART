@@ -20,5 +20,20 @@ python3.8 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
 ```
+## Paper Associated
+---
+If you use it, please cite
+```
+@article{,
+      title={Learning to Play Atari in a World of Tokens},
+      author={Agarwal, Pranav and Andrews, Sheldon and Kahou, Samira Ebrahimi},
+      booktitle={ICML},
+      volume={},
+      number={},
+      pages={},
+      year={2024}
+    }
+```
+
 
 
