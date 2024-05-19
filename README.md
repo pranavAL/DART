@@ -14,3 +14,11 @@ In this work, we introduce discrete abstract representations for transformer-bas
 
 ---
 ### Dependencies
+Create a virtual environment and install all the required files
+```
+python3.8 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+```
+
+
