@@ -38,7 +38,7 @@ If you use it, please cite
 ```
 
 ## Credits
-* [https://github.com/eloialonso/iris](https://github.com/eloialonso/iris)
+* Modeling of tokens and the world is inspired from [https://github.com/eloialonso/iris](https://github.com/eloialonso/iris)
 * [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
   
 
