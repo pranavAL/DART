@@ -26,13 +26,10 @@ The main contribution of our work includes a novel approach that utilizes transf
 ## Paper Associated
 If you use it, please cite
 ```
-@article{,
+@article{agarwal2024learning,
       title={Learning to Play Atari in a World of Tokens},
       author={Agarwal, Pranav and Andrews, Sheldon and Kahou, Samira Ebrahimi},
-      booktitle={ICML},
-      volume={},
-      number={},
-      pages={},
+      booktitle={International Conference on Machine Learning (ICML) 2024},
       year={2024}
     }
 ```
