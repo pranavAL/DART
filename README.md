@@ -29,7 +29,7 @@ If you use it, please cite
 @article{agarwal2024learning,
       title={Learning to Play Atari in a World of Tokens},
       author={Agarwal, Pranav and Andrews, Sheldon and Kahou, Samira Ebrahimi},
-      booktitle={International Conference on Machine Learning (ICML) 2024},
+      booktitle={International Conference on Machine Learning (ICML)},
       year={2024}
     }
 ```
